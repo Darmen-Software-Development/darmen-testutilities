@@ -1,0 +1,17 @@
+/bin/
+/.gradle/
+.classpath
+.project
+/.settings/
+build/
+
+# IntelliJ
+.idea
+*.iml
+
+# Mac Users
+.DS_Store
+
+# Test artifacts
+src/test/resources/testDirectory
+src/test/resources/emptyDirectory
